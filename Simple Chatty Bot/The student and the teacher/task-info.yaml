@@ -176,6 +176,9 @@ files:
 
     }
   learner_created: false
+- name: src/bot/Test.kt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/95/stages/527/implement
 status: Solved
-record: -1
+record: 4
